@@ -1,10 +1,27 @@
 papers:
 
-  - title: "Retrieval of Soft Prompt Enhances Zero-shot Task Generalization"
+  - title: "The CoT Collection: Improving Zero-shot and Few-shot Learning of Language Models via Chain-of-Thought Fine-Tuning"
     year: "Preprints"
+    authors: "Seungone Kim*, Se June Joo*, Doyoung Kim, <b><u>Joel Jang</u></b>, Seonghyeon Ye, Jamin Shin, Minjoon Seo"
+    venue: "Preprint"
+    paper_pdf: "https://arxiv.org/abs/2305.14045"
+    code: "https://github.com/kaist-lklab/CoT-Collection"
+    twitter: "https://twitter.com/seungonekim/status/1660971862468485120?s=20"
+    selected: y
+    
+  - title: "Improving Probability-based Prompt Selection Through Unified Evaluation and Analysis"
+    year: "Preprints"
+    authors: "Sohee Yang, Jonghyeon Kim, <b><u>Joel Jang</u></b>, Seonghyeon Ye, Hyunji Lee, Minjoon Seo"
+    venue: "Preprint"
+    paper_pdf: "https://arxiv.org/abs/2305.14877"
+    code: "https://github.com/soheeyang/unified-prompt-selection"
+    twitter: "https://twitter.com/soheeyang_/status/1661339578240737287?s=20"
+    selected: y
+    
+  - title: "Retrieval of Soft Prompt Enhances Zero-shot Task Generalization"
     image: "/assets/publications/2022_emnlp/ropt.png"
     authors: "Seonghyeon Ye, <b><u>Joel Jang</u></b>, Doyoung Kim, Yongrae Jo, Minjoon Seo"
-    venue: "Preprint Under Review"
+    venue: "Preprint"
     paper_pdf: "https://arxiv.org/abs/2210.03029"
     code: "https://github.com/seonghyeonye/RoSPr"
     twitter: "https://twitter.com/SeonghyeonYe/status/1578239880102281221?s=20&t=SEcE7zooqxlba79QZv6D1A"
