@@ -10,7 +10,6 @@ papers:
     selected: y
     
   - title: "Improving Probability-based Prompt Selection Through Unified Evaluation and Analysis"
-    year: "Preprints"
     authors: "Sohee Yang, Jonghyeon Kim, <b><u>Joel Jang</u></b>, Seonghyeon Ye, Hyunji Lee, Minjoon Seo"
     venue: "Preprint"
     paper_pdf: "https://arxiv.org/abs/2305.14877"
