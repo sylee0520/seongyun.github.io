@@ -38,7 +38,9 @@ papers:
   - title: "Gradient Ascent Post-training Enhances Language Model Generalization"
     image: "/assets/publications/2023_iclr/unlearning.png"
     authors: "Dongkeun Yoon*, <b><u>Joel Jang*</u></b>, Sungdong Kim, Minjoon Seo"
-    venue: "ACL 2023"
+    venue: "ACL 2023 (short)"
+    paper_pdf: "https://arxiv.org/abs/2306.07052"
+    code: "https://github.com/kaistAI/GAP"
     selected: y
     
   - title: "Prompt Injection: Parameterization of Fixed Inputs"
