@@ -8,6 +8,7 @@ papers:
     selected: y
     
   - title: "The CoT Collection: Improving Zero-shot and Few-shot Learning of Language Models via Chain-of-Thought Fine-Tuning"
+    year: "2023"
     authors: "Seungone Kim*, Se June Joo*, Doyoung Kim, <b><u>Joel Jang</u></b>, Seonghyeon Ye, Jamin Shin, Minjoon Seo"
     venue: "EMNLP 2023"
     paper_pdf: "https://arxiv.org/abs/2305.14045"
@@ -24,9 +25,7 @@ papers:
     twitter: "https://twitter.com/SeonghyeonYe/status/1578239880102281221?s=20&t=SEcE7zooqxlba79QZv6D1A"
     selected: y
 
-    
   - title: "Knowledge Unlearning for Mitigating Privacy Risks in Language Models"
-    year: "2023"
     image: "/assets/publications/2023_iclr/unlearning.png"
     authors: "<b><u>Joel Jang</u></b>, Dongkeun Yoon, Sohee Yang, Sungmin Cha, Moontae Lee, Lajanugen Logeswaran, Minjoon Seo"
     venue: "ACL 2023"
