@@ -1,12 +1,4 @@
 papers:
-  - title: "The CoT Collection: Improving Zero-shot and Few-shot Learning of Language Models via Chain-of-Thought Fine-Tuning"
-    authors: "Seungone Kim*, Se June Joo*, Doyoung Kim, <b><u>Joel Jang</u></b>, Seonghyeon Ye, Jamin Shin, Minjoon Seo"
-    venue: "Preprint"
-    paper_pdf: "https://arxiv.org/abs/2305.14045"
-    code: "https://github.com/kaist-lklab/CoT-Collection"
-    twitter: "https://twitter.com/seungonekim/status/1660971862468485120?s=20"
-    selected: y
-    
   - title: "Improving Probability-based Prompt Selection Through Unified Evaluation and Analysis"
     authors: "Sohee Yang, Jonghyeon Kim, <b><u>Joel Jang</u></b>, Seonghyeon Ye, Hyunji Lee, Minjoon Seo"
     venue: "Preprint"
@@ -15,14 +7,23 @@ papers:
     twitter: "https://twitter.com/soheeyang_/status/1661339578240737287?s=20"
     selected: y
     
+  - title: "The CoT Collection: Improving Zero-shot and Few-shot Learning of Language Models via Chain-of-Thought Fine-Tuning"
+    authors: "Seungone Kim*, Se June Joo*, Doyoung Kim, <b><u>Joel Jang</u></b>, Seonghyeon Ye, Jamin Shin, Minjoon Seo"
+    venue: "EMNLP 2023"
+    paper_pdf: "https://arxiv.org/abs/2305.14045"
+    code: "https://github.com/kaist-lklab/CoT-Collection"
+    twitter: "https://twitter.com/seungonekim/status/1660971862468485120?s=20"
+    selected: y
+    
   - title: "Retrieval of Soft Prompt Enhances Zero-shot Task Generalization"
     image: "/assets/publications/2022_emnlp/ropt.png"
     authors: "Seonghyeon Ye, <b><u>Joel Jang</u></b>, Doyoung Kim, Yongrae Jo, Minjoon Seo"
-    venue: "Preprint"
+    venue: "EMNLP 2023 Findings"
     paper_pdf: "https://arxiv.org/abs/2210.03029"
     code: "https://github.com/seonghyeonye/RoSPr"
     twitter: "https://twitter.com/SeonghyeonYe/status/1578239880102281221?s=20&t=SEcE7zooqxlba79QZv6D1A"
     selected: y
+
     
   - title: "Knowledge Unlearning for Mitigating Privacy Risks in Language Models"
     year: "2023"
@@ -46,7 +47,7 @@ papers:
   - title: "Prompt Injection: Parameterization of Fixed Inputs"
     image: "/assets/publications/2022_neurips/pi.png"
     authors: "Eunbi Choi, Yongrae Jo, <b><u>Joel Jang</u></b>, Minjoon Seo"
-    venue: "Findings of ACL 2023"
+    venue: "ACL 2023 Findings"
     paper_pdf: "https://arxiv.org/abs/2206.11349"
     code: "https://github.com/unbiarirang/Prompt-Injection"
     twitter: "https://twitter.com/eunbi__choi/status/1548891869811458048?s=20&t=SEcE7zooqxlba79QZv6D1A"
