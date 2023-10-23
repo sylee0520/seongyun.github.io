@@ -1,4 +1,20 @@
 papers:
+  - title: "Personalized Soups: Personalized Large Language Model Alignment via Post-hoc Parameter Merging"
+    authors: "<b><u>Joel Jang</u></b>, Seungone Kim, Bill Yuchen Lin, Yizhong Wang, Jack Hessel, Luke Zettlemoyer, Hannaneh Hajishirzi, Yejin Choi, Prithviraj Ammanabrolu"
+    venue: "Preprint"
+    paper_pdf: "https://arxiv.org/abs/2310.11564"
+    code: "https://github.com/joeljang/RLPHF"
+    twitter: "https://x.com/jang_yoel/status/1715094750167265458?s=20"
+    selected: y
+    
+  - title: "Prometheus: Inducing Fine-grained Evaluation Capability in Language Models"
+    authors: "Seungone Kim*, Jamin Shin*, Yejin Cho*, <b><u>Joel Jang</u></b>, Shayne Longpre, Hwaran Lee, Sangdoo Yun, Seongjin Shin, Sungdong Kim, James Thorne, Minjoon Seo"
+    venue: "Preprint"
+    paper_pdf: "https://arxiv.org/abs/2310.08491"
+    code: "https://github.com/kaistAI/Prometheus"
+    twitter: "https://x.com/seungonekim/status/1713587475229401493?s=20"
+    selected: y
+    
   - title: "Improving Probability-based Prompt Selection Through Unified Evaluation and Analysis"
     authors: "Sohee Yang, Jonghyeon Kim, <b><u>Joel Jang</u></b>, Seonghyeon Ye, Hyunji Lee, Minjoon Seo"
     venue: "Preprint"
