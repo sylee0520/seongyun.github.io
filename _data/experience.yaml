@@ -1,12 +1,12 @@
 experiences:
 - place: "Allen Institute for AI (AI2)"
-  time: "Summer 2023"
+  time: "June 2023 - Present"
   title: "Research Intern"
-  subtitle: "To Be Decided"
+  subtitle: "Personalized RLHF"
   category: "work"
   
 - place: "LG AI Research"
-  time: "July 2022 - Present"
+  time: "July 2022 - May 2023"
   title: "Research Intern (Mentors: Moontae Lee, Lajanugen Logeswaran)"
   subtitle: "Working on developing LMs that can generalize to novel tasks"
   category: "work"
@@ -14,7 +14,7 @@ experiences:
 - place: "KAIST Language & Knowledge Lab"
   time: "Mar. 2021 - Present"
   title: "M.S. Student (Advisor: Minjoon Seo)"
-  subtitle: "Working on adaptation of large LMs"
+  subtitle: "Continual Adaptation of LLMs"
   category: "school"
 
 - place: "Kakao Brain"
