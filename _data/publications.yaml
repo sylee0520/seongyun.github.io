@@ -7,21 +7,21 @@ papers:
     twitter: "https://x.com/jang_yoel/status/1715094750167265458?s=20"
     selected: y
     
-  - title: "Improving Probability-based Prompt Selection Through Unified Evaluation and Analysis"
-    authors: "Sohee Yang, Jonghyeon Kim, <b><u>Joel Jang</u></b>, Seonghyeon Ye, Hyunji Lee, Minjoon Seo"
-    venue: "Preprint"
-    paper_pdf: "https://arxiv.org/abs/2305.14877"
-    code: "https://github.com/soheeyang/unified-prompt-selection"
-    twitter: "https://twitter.com/soheeyang_/status/1661339578240737287?s=20"
-    selected: y
-    
   - title: "Prometheus: Inducing Fine-grained Evaluation Capability in Language Models"
-    year: "2024
+    year: "2024"
     authors: "Seungone Kim*, Jamin Shin*, Yejin Cho*, <b><u>Joel Jang</u></b>, Shayne Longpre, Hwaran Lee, Sangdoo Yun, Seongjin Shin, Sungdong Kim, James Thorne, Minjoon Seo"
     venue: "ICLR 2024"
     paper_pdf: "https://arxiv.org/abs/2310.08491"
     code: "https://github.com/kaistAI/Prometheus"
     twitter: "https://x.com/seungonekim/status/1713587475229401493?s=20"
+    selected: y
+    
+  - title: "Improving Probability-based Prompt Selection Through Unified Evaluation and Analysis"
+    authors: "Sohee Yang, Jonghyeon Kim, <b><u>Joel Jang</u></b>, Seonghyeon Ye, Hyunji Lee, Minjoon Seo"
+    venue: "TACL 2024"
+    paper_pdf: "https://arxiv.org/abs/2305.14877"
+    code: "https://github.com/soheeyang/unified-prompt-selection"
+    twitter: "https://twitter.com/soheeyang_/status/1661339578240737287?s=20"
     selected: y
     
   - title: "The CoT Collection: Improving Zero-shot and Few-shot Learning of Language Models via Chain-of-Thought Fine-Tuning"
