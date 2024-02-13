@@ -4,6 +4,12 @@ experiences:
   title: "Research Intern (Mentors: Prithviraj Ammanabrolu, Yuchen Lin, Yejin Choi)"
   subtitle: "Personalized RLHF"
   category: "work"
+
+- place: "University of Washington"
+  time: "Sep. 2023 - Present"
+  title: "Ph.D. Student (Advisor: Luke Zettlemoyer and Dieter Fox)"
+  subtitle: "Foundational Models for Generalist AI Robots"
+  category: "school"
   
 - place: "LG AI Research"
   time: "July 2022 - May 2023"
@@ -12,7 +18,7 @@ experiences:
   category: "work"
 
 - place: "KAIST Language & Knowledge Lab"
-  time: "Mar. 2021 - Present"
+  time: "Mar. 2021 - Aug. 2023"
   title: "M.S. Student (Advisor: Minjoon Seo)"
   subtitle: "Continual Adaptation of LLMs"
   category: "school"
