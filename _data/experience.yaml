@@ -1,4 +1,10 @@
 experiences:
+- place: "Nvidia Robotics Lab"
+  time: "March 2024 - Present"
+  title: "Research Intern (Mentors: Dieter Fox)"
+  subtitle: "Democratizing Foundational Models for Robotics"
+  category: "work"
+  
 - place: "Allen Institute for AI (AI2)"
   time: "June 2023 - Jan 2024"
   title: "Research Intern (Mentors: Prithviraj Ammanabrolu, Yuchen Lin, Yejin Choi)"
