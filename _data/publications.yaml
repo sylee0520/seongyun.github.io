@@ -1,136 +1,88 @@
 papers:
-  - title: "Personalized Soups: Personalized Large Language Model Alignment via Post-hoc Parameter Merging"
-    authors: "<b><u>Joel Jang</u></b>, Seungone Kim, Bill Yuchen Lin, Yizhong Wang, Jack Hessel, Luke Zettlemoyer, Hannaneh Hajishirzi, Yejin Choi, Prithviraj Ammanabrolu"
+  - title: "The CoT Encyclopedia: Analyzing, Predicting, and Controlling how a Reasoning Model will Think"
+    authors: "<b><u>Seongyun Lee</u></b>, Seungone Kim, Minju Seo, Yongrae Jo, Dongyoung Go, Hyeonbin Hwang, Jinho Park, Xiang Yue, Sean Welleck, Graham Neubig, Moontae Lee, Minjoon Seo"
     venue: "Preprint"
-    paper_pdf: "https://arxiv.org/abs/2310.11564"
-    code: "https://github.com/joeljang/RLPHF"
-    twitter: "https://x.com/jang_yoel/status/1715094750167265458?s=20"
-    selected: y
-    
-  - title: "Prometheus: Inducing Fine-grained Evaluation Capability in Language Models"
-    year: "2024"
-    authors: "Seungone Kim*, Jamin Shin*, Yejin Cho*, <b><u>Joel Jang</u></b>, Shayne Longpre, Hwaran Lee, Sangdoo Yun, Seongjin Shin, Sungdong Kim, James Thorne, Minjoon Seo"
-    venue: "ICLR 2024"
-    paper_pdf: "https://arxiv.org/abs/2310.08491"
-    code: "https://github.com/kaistAI/Prometheus"
-    twitter: "https://x.com/seungonekim/status/1713587475229401493?s=20"
-    selected: y
-    
-  - title: "Improving Probability-based Prompt Selection Through Unified Evaluation and Analysis"
-    authors: "Sohee Yang, Jonghyeon Kim, <b><u>Joel Jang</u></b>, Seonghyeon Ye, Hyunji Lee, Minjoon Seo"
-    venue: "TACL 2024"
-    paper_pdf: "https://arxiv.org/abs/2305.14877"
-    code: "https://github.com/soheeyang/unified-prompt-selection"
-    twitter: "https://twitter.com/soheeyang_/status/1661339578240737287?s=20"
-    selected: y
-    
-  - title: "The CoT Collection: Improving Zero-shot and Few-shot Learning of Language Models via Chain-of-Thought Fine-Tuning"
-    year: "2023"
-    authors: "Seungone Kim*, Se June Joo*, Doyoung Kim, <b><u>Joel Jang</u></b>, Seonghyeon Ye, Jamin Shin, Minjoon Seo"
-    venue: "EMNLP 2023"
-    paper_pdf: "https://arxiv.org/abs/2305.14045"
-    code: "https://github.com/kaist-lklab/CoT-Collection"
-    twitter: "https://twitter.com/seungonekim/status/1660971862468485120?s=20"
-    selected: y
-    
-  - title: "Retrieval of Soft Prompt Enhances Zero-shot Task Generalization"
-    image: "/assets/publications/2022_emnlp/ropt.png"
-    authors: "Seonghyeon Ye, <b><u>Joel Jang</u></b>, Doyoung Kim, Yongrae Jo, Minjoon Seo"
-    venue: "EMNLP 2023 Findings"
-    paper_pdf: "https://arxiv.org/abs/2210.03029"
-    code: "https://github.com/seonghyeonye/RoSPr"
-    twitter: "https://twitter.com/SeonghyeonYe/status/1578239880102281221?s=20&t=SEcE7zooqxlba79QZv6D1A"
-    selected: y
-
-  - title: "Knowledge Unlearning for Mitigating Privacy Risks in Language Models"
-    image: "/assets/publications/2023_iclr/unlearning.png"
-    authors: "<b><u>Joel Jang</u></b>, Dongkeun Yoon, Sohee Yang, Sungmin Cha, Moontae Lee, Lajanugen Logeswaran, Minjoon Seo"
-    venue: "ACL 2023"
-    paper_pdf: "https://arxiv.org/abs/2210.01504"
-    code: "https://github.com/joeljang/knowledge-unlearning"
-    slides: "https://docs.google.com/presentation/d/1qK7ET5UzTY-q6c0viQCl74VDhHZ2-bEH0oVBzA1VN30/edit?usp=sharing"
-    twitter: "https://twitter.com/jang_yoel/status/1577642097041354752?s=20&t=SEcE7zooqxlba79QZv6D1A"
-    selected: y
-    
-  - title: "Gradient Ascent Post-training Enhances Language Model Generalization"
-    image: "/assets/publications/2023_iclr/unlearning.png"
-    authors: "Dongkeun Yoon*, <b><u>Joel Jang*</u></b>, Sungdong Kim, Minjoon Seo"
-    venue: "ACL 2023 (short)"
-    paper_pdf: "https://arxiv.org/abs/2306.07052"
-    code: "https://github.com/kaistAI/GAP"
-    selected: y
-    
-  - title: "Prompt Injection: Parameterization of Fixed Inputs"
-    image: "/assets/publications/2022_neurips/pi.png"
-    authors: "Eunbi Choi, Yongrae Jo, <b><u>Joel Jang</u></b>, Minjoon Seo"
-    venue: "ACL 2023 Findings"
-    paper_pdf: "https://arxiv.org/abs/2206.11349"
-    code: "https://github.com/unbiarirang/Prompt-Injection"
-    twitter: "https://twitter.com/eunbi__choi/status/1548891869811458048?s=20&t=SEcE7zooqxlba79QZv6D1A"
-    selected: y
-    
-  - title: "Exploring the Benefits of Training Expert Language Models over Instruction Tuning"
-    image: "/assets/publications/2023_icml/elm.png"
-    authors: "<b><u>Joel Jang</u></b>, Seungone Kim, Seonghyeon Ye, Doyoung Kim, Lajanugen Logeswaran, Moontae Lee, Kyungjae Lee, Minjoon Seo"
-    venue: "ICML 2023"
-    paper_pdf: "https://arxiv.org/abs/2302.03202"
-    code: "https://github.com/joeljang/ELM"
-    slides: "https://docs.google.com/presentation/d/1PJEB96U2SWGeGkVDbfydeN4JXjSB5z-4BI9YGy5Pt9Y/edit?usp=sharing"
-    twitter: "https://twitter.com/jang_yoel/status/1623169024489328640?s=20&t=2v4b6Ud5rN_ehtjrpvGFcQ"
-    selected: y
-    
-  - title: "Guess the Instruction! Making Language Models Stronger Zero-Shot Learners"
-    image: "/assets/publications/2023_iclr/flipped.png"
-    authors: "Seonghyeon Ye, Doyoung Kim, <b><u>Joel Jang</u></b>, Joongbo Shin, Minjoon Seo"
-    venue: "ICLR 2023"
-    paper_pdf: "https://arxiv.org/abs/2210.02969"
-    code: "https://github.com/seonghyeonye/Flipped-Learning"
-    twitter: "https://twitter.com/SeonghyeonYe/status/1580170684466360323?s=20&t=SEcE7zooqxlba79QZv6D1A"
-    selected: y
-    
-  - title: "Can Large Language Models Truly Understand Prompts? A Case Study with Negated Prompts"
-    year: "2022"
-    image: "/assets/publications/2022_neurips/inverse.png"
-    authors: "<b><u>Joel Jang*</u></b>, Seonghyeon Ye*, Minjoon Seo"
-    venue: "NeurIPS 2022 Workshop on Transfer Learning for NLP (TL4NLP)"
-    paper_pdf: "https://proceedings.mlr.press/v203/jang23a/jang23a.pdf"
-    code: "https://github.com/joeljang/negated-prompts-for-llms"
-    slides: "https://docs.google.com/presentation/d/1TfVQA0evQ58DeDDzzLAxtryk3J5EIoiHiAPQJgaFZKg/edit?usp=sharing"
-    selected: y
-
-  - title: "TemporalWiki: A Lifelong Benchmark for Training and Evaluating Ever-Evolving Language Models"
-    image: "/assets/publications/2022_emnlp/temporalwiki.png"
-    authors: "<b><u>Joel Jang*</u></b>, Seonghyeon Ye*, Changho Lee, Sohee Yang, Joongbo Shin, Janghoon Han, Gyeonghun Kim, Minjoon Seo"
-    venue: "EMNLP 2022"
-    paper_pdf: "https://arxiv.org/abs/2204.14211"
-    code: "https://github.com/joeljang/temporalwiki"
-    slides: "https://docs.google.com/presentation/d/1biItlNm2R_N-fx9IreykvQSmI1eUi9B0-Hwtk3WKZow/edit?usp=sharing"
-    twitter: "https://twitter.com/jang_yoel/status/1521468905281056768?s=20&t=SEcE7zooqxlba79QZv6D1A"
-    selected: y
-
-  - title: "Towards Continual Knowledge Learning of Language Models"
-    image: "/assets/publications/2022_iclr/ckl.png"
-    authors: "<b><u>Joel Jang</u></b>, Seonghyeon Ye, Sohee Yang, Joongbo Shin, Janghoon Han, Gyeonghun Kim, Stanley Jungkyu Choi, Minjoon Seo"
-    venue: "ICLR 2022"
-    paper_pdf: "https://arxiv.org/abs/2110.03215"
-    code: "https://github.com/joeljang/continual-knowledge-learning"
-    slides: "https://docs.google.com/presentation/d/1OGIm6rJIqTUQhXw_URD-MDjdMK_5Arjh92mtLjDNilM/edit?usp=sharing"
-    twitter: "https://twitter.com/jang_yoel/status/1453323192135667721?s=20&t=EJPg6GTKt345aQMq-HiILA"
-    selected: y
-
-  - title: "Sequential targeting: A continual learning approach for data imbalance in text classification"
-    year: "2021"
-    image: "/assets/publications/2021_eswa/sequential.png"
-    authors: "<b><u>Joel Jang</u></b>, Yoonjeon Kim, Kyoungho Choi, Sungho Suh"
-    venue: "Expert Systems with Applications (2021)"
-    paper_pdf: "https://www.sciencedirect.com/science/article/abs/pii/S095741742100508X"
-    code: "https://github.com/joeljang/Sequential-Targeting"
-    selected: y
-
-  - title: "Supervised health stage prediction using convolutional neural networks for bearing wear"
-    image: "/assets/publications/2020_sensors/supervised.png"
-    authors: "Sungho Suh, <b><u>Joel Jang</u></b>, Seungjae Won, Mayank Shekhar Jha, Yong Oh Lee"
-    venue: "Sensors (2020)"
-    paper_pdf: "https://www.mdpi.com/1424-8220/20/20/5846"
-    code: "https://github.com/joeljang/Remaining-Useful-Life-Prediction"
+    paper_pdf: "https://arxiv.org/abs/2505.10185"
+    code: "https://github.com/LGAI-Research/CoT-Encyclopedia"
     selected: n
+
+  - title: "Paper2code: Automating code generation from scientific papers in machine learning"
+    authors: "Minju Seo, Jinheon Baek, <b><u>Seongyun Lee</u></b>, Sung Ju Hwang"
+    venue: "Preprint"
+    paper_pdf: "https://arxiv.org/abs/2504.17192"
+    code: "https://github.com/going-doer/Paper2Code"
+    selected: n
+    
+  - title: "Scaling evaluation-time compute with reasoning models as process evaluators"
+    authors: "Seungone Kim, Ian Wu, Jinu Lee, Xiang Yue, <b><u>Seongyun Lee</u></b>, Mingyeong Moon, Kiril Gashteovski, Carolin Lawrence, Julia Hockenmaier, Graham Neubig, Sean Welleck"
+    venue: "Preprint"
+    paper_pdf: "https://arxiv.org/abs/2503.19877"
+    selected: n
+
+  - title: "Efficient Long Context Language Model Retrieval with Compression"
+    authors: "Minju Seo, Jinheon Baek, <b><u>Seongyun Lee</u></b>, Sung Ju Hwang"
+    venue: "EMNLP 2025"
+    paper_pdf: "https://arxiv.org/abs/2412.18232"
+    code: "https://github.com/going-doer/CoLoR"
+    selected: y
+
+  - title: "Aligning to thousands of preferences via system message generalization"
+    authors: "<b><u>Seongyun Lee</u></b>, Sue Hyun Park, Seungone Kim, Minjoon Seo"
+    venue: "NeurIPS 2024"
+    paper_pdf: "https://proceedings.neurips.cc/paper_files/paper/2024/hash/86c9df30129f7663ad4d429b6f80d461-Abstract-Conference.html"
+    code: "https://github.com/kaistAI/Janus"
+    selected: y
+
+  - title: "Evaluating language models as synthetic data generators"
+    authors: "Seungone Kim, Juyoung Suk, Xiang Yue, Vijay Viswanathan, <b><u>Seongyun Lee</u></b>, Yizhong Wang, Kiril Gashteovski, Carolin Lawrence, Sean Welleck, Graham Neubig"
+    venue: "ACL 2025"
+    paper_pdf: "https://arxiv.org/abs/2412.03679"
+    code: "https://github.com/neulab/data-agora"
+    selected: y
+
+  - title: "How does vision-language adaptation impact the safety of vision language models?"
+    authors: "<b><u>Seongyun Lee</u></b>, Geewook Kim, Jiyeon Kim, Hyunji Lee, Hoyeon Chang, Sue Hyun Park, Minjoon Seo"
+    venue: "ICLR 2025"
+    paper_pdf: "https://arxiv.org/abs/2410.07571"
+    selected: y
+
+  - title: "Prometheus-vision: Vision-language model as a judge for fine-grained evaluation"
+    authors: "<b><u>Seongyun Lee</u></b>, Seungone Kim, Sue Park, Geewook Kim, Minjoon Seo"
+    venue: "Findings of ACL 2024"
+    paper_pdf: "https://aclanthology.org/2024.findings-acl.672/"
+    code: "https://github.com/prometheus-eval/prometheus-vision"
+    selected: y
+
+  - title: "The BiGGen Bench: A Principled Benchmark for Fine-grained Evaluation of Language Models with Language Models"
+    authors: "Seungone Kim, Juyoung Suk, Ji Yong Cho, Shayne Longpre, Chaeeun Kim, Dongkeun Yoon, Guijin Son, Yejin Cho, Sheikh Shafayat, Jinheon Baek, Sue Hyun Park, Hyeonbin Hwang, Jinkyung Jo, Hyowon Cho, Haebin Shin, <b><u>Seongyun Lee</u></b>, Hanseok Oh, Noah Lee, Namgyu Ho, Se June Joo, Miyoung Ko, Yoonjoo Lee, Hyungjoo Chae, Jamin Shin, Joel Jang, Seonghyeon Ye, Bill Yuchen Lin, Sean Welleck, Graham Neubig, Moontae Lee, Kyungjae Lee, Minjoon Seo"
+    venue: "NAACL 2025 (Best Paper Award)"
+    paper_pdf: "https://arxiv.org/abs/2406.05761"
+    code: "https://github.com/prometheus-eval/leaderboard"
+    selected: y
+
+  - title: "Lg ai research & kaist at ehrsql 2024: Self-training large language models with pseudo-labeled unanswerable questions for a reliable text-to-sql system on ehrs"
+    authors: "Yongrae Jo, <b><u>Seongyun Lee</u></b>, Minju Seo, Sung Ju Hwang, Moontae Lee"
+    venue: "NAACL 2024 Clinical NLP Workshop (Oral)"
+    paper_pdf: "https://arxiv.org/abs/2405.11162"
+    selected: y
+
+  - title: "Volcano: mitigating multimodal hallucination through self-feedback guided revision"
+    authors: "<b><u>Seongyun Lee</u></b>, Sue Hyun Park, Yongrae Jo, Minjoon Seo"
+    venue: "NAACL 2024 Main"
+    paper_pdf: "https://arxiv.org/abs/2311.07362"
+    code: "https://github.com/kaistAI/Volcano"
+    selected: y
+
+  - title: "Zero-shot dense video captioning by jointly optimizing text and moment"
+    authors: "Yongrae Jo, <b><u>Seongyun Lee</u></b>, Aiden SJ Lee, Hyunji Lee, Hanseok Oh, Minjoon Seo"
+    venue: "Preprint"
+    paper_pdf: "https://arxiv.org/abs/2307.02682"
+    selected: n
+
+  - title: "LIQUID: A framework for list question answering dataset generation"
+    authors: "<b><u>Seongyun Lee</u></b>, Hyunjae Kim, Jaewoo Kang"
+    venue: "AAAI 2023"
+    paper_pdf: "https://ojs.aaai.org/index.php/AAAI/article/view/26529"
+    code: "https://github.com/dmis-lab/LIQUID"
+    selected: y
+
