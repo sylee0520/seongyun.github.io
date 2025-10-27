@@ -4,20 +4,20 @@ papers:
     venue: "Preprint"
     paper_pdf: "https://arxiv.org/abs/2505.10185"
     code: "https://github.com/LGAI-Research/CoT-Encyclopedia"
-    selected: n
+    selected: y
 
   - title: "Paper2code: Automating code generation from scientific papers in machine learning"
     authors: "Minju Seo, Jinheon Baek, <b><u>Seongyun Lee</u></b>, Sung Ju Hwang"
     venue: "Preprint"
     paper_pdf: "https://arxiv.org/abs/2504.17192"
     code: "https://github.com/going-doer/Paper2Code"
-    selected: n
+    selected: y
     
   - title: "Scaling evaluation-time compute with reasoning models as process evaluators"
     authors: "Seungone Kim, Ian Wu, Jinu Lee, Xiang Yue, <b><u>Seongyun Lee</u></b>, Mingyeong Moon, Kiril Gashteovski, Carolin Lawrence, Julia Hockenmaier, Graham Neubig, Sean Welleck"
     venue: "Preprint"
     paper_pdf: "https://arxiv.org/abs/2503.19877"
-    selected: n
+    selected: y
 
   - title: "Efficient Long Context Language Model Retrieval with Compression"
     authors: "Minju Seo, Jinheon Baek, <b><u>Seongyun Lee</u></b>, Sung Ju Hwang"
@@ -77,7 +77,7 @@ papers:
     authors: "Yongrae Jo, <b><u>Seongyun Lee</u></b>, Aiden SJ Lee, Hyunji Lee, Hanseok Oh, Minjoon Seo"
     venue: "Preprint"
     paper_pdf: "https://arxiv.org/abs/2307.02682"
-    selected: n
+    selected: y
 
   - title: "LIQUID: A framework for list question answering dataset generation"
     authors: "<b><u>Seongyun Lee</u></b>, Hyunjae Kim, Jaewoo Kang"
