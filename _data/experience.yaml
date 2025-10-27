@@ -1,7 +1,7 @@
 experiences:
-- place: "KAIST Language & Knowledge Lab"
+- place: "KAIST COCO Lab & LK Lab"
   time: "Sep. 2025 - Present"
-  title: "Ph.D. Student (Advisor: Minjoon Seo)"
+  title: "Ph.D. Student (Advisor: Hyunwoo Kim and Minjoon Seo)"
   subtitle: "Mitigating and Evaluating the Agentic Misalignment & Scheming for Trustworthy AGI"
   category: "school"
   
@@ -11,7 +11,7 @@ experiences:
   subtitle: "Monitoring and Enhancing the Robustness of the Chain-of-Thought for Large Reasoning Model"
   category: "work"
 
-- place: "KAIST Language & Knowledge Lab"
+- place: "KAIST LK Lab"
   time: "Mar. 2024 - Aug. 2025"
   title: "M.S. Student (Advisor: Minjoon Seo)"
   subtitle: "From Pre-trained Language Model To Trustworthy Multimodal Model"
